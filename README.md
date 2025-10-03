@@ -80,7 +80,7 @@ python manage runserver
 # G00D LUCK
 
 For doubts email me at:
-atinsaki@gmail.com
+aishwaryanair488@gmail.com
 # Stock-prediction-with-ai
 # Stock-prediction-with-ai
 # Stock-prediction-with-ai
